@@ -31,10 +31,6 @@ Control a spaceship, dodge and destroy asteroids to achieve the highest possible
    ```
    *(Make sure `requirements.txt` contains: `pygame==2.6.1`)*
 
-   Or install Pygame manually:
-   ```
-   pip install pygame
-   ```
 
 ## Initialization
 
