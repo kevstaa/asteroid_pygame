@@ -21,6 +21,12 @@ Control a spaceship, dodge and destroy asteroids to achieve the highest possible
 
 2. Install the dependencies:
    ```
+   python3 -m venv .venv
+   ```
+   ```
+   source .venv/bin/activate
+   ```
+   ```
    pip install -r requirements.txt
    ```
    *(Make sure `requirements.txt` contains: `pygame==2.6.1`)*
